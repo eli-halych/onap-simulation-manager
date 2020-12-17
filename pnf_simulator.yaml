@@ -1,0 +1,4 @@
+version: latest
+registry: nexus3.onap.org:10003/onap
+image_name: pnf-simulator
+name: my-container
